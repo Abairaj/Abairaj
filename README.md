@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abairaj&label=Profile%20views&color=0e75b6&style=flat" alt="abairaj" /> </p>
 
-- <a href="https://drive.google.com/file/d/1cwMvxYl9fJRnAQNKJHVMwdPctL5UGPGD/view?usp=sharing"/>My Resume</a>
+- <a href="https://drive.google.com/file/d/1eit12PRLQ9S7TaLNoKFdvm5TeF3zG0bh/view?usp=sharing"/>My Resume</a>
 - 🌱 I’m currently learning **Django,React**
 
 - 💬 Ask me about **Python,Django,REST API, React,Websockets**
