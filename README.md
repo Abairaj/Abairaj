@@ -8,7 +8,7 @@
 - <a href="https://drive.google.com/file/d/1eit12PRLQ9S7TaLNoKFdvm5TeF3zG0bh/view?usp=sharing"/>My Resume</a>
 - 🌱 I’m currently learning **Django,React**
 
-- 💬 Ask me about **Python,Django,REST API, React,Websockets**
+- 💬 Ask me about **Python, Django, Js, REST API, Graphql, React, Websockets**
 
 - 📫 How to reach me **abairajpoinachi@gmail.com**
 
